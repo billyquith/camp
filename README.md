@@ -1,6 +1,9 @@
 
+> **Please note**: CAMP has been forked and continues as [Ponder](http://billyquith.github.io/ponder/). *Please use this instead.*
+
+---
+
 CAMP
-----
 
 [![Build Status](https://travis-ci.org/billyquith/camp.svg)](https://travis-ci.org/billyquith/camp)
 
